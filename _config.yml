@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 title: Gender paygaps at King's College London
 subtitle: test1
 description: ""
@@ -6,3 +6,40 @@ show_downloads: false
 exclude:
   - bin
   - Gemfile
+
+url: https://sunilmitrakumar.github.io
+baseurl: /markdown-only-website
+
+permalink: pretty
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  tools:
+    output: true
+  languages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - docs/
+  - vendor/
+  - Gemfile # Gemfile.lock is implied because of how matching works.
+  - LICENSE
+  - Makefile
+  - README.md
+  - sample*.png
+
+liquid:
+  error_mode: strict
+
+strict_front_matter: true
