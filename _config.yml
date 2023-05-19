@@ -2,4 +2,6 @@ theme: jekyll-theme-slate
 title: Gender paygaps at King's College London
 subtitle: test1
 description: ""
+body {
 font-family: Arial
+}
