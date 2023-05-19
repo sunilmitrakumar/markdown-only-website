@@ -3,3 +3,6 @@ title: Gender paygaps at King's College London
 subtitle: test1
 description: ""
 show_downloads: false
+exclude:
+  - bin
+  - Gemfile
