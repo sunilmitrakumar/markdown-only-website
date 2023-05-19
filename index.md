@@ -23,7 +23,7 @@ your website:
 
 ``` ruby
 ---
-title: "Make a Website with Only Markdown"
+title: "Website with Markdown"
 permalink: /
 layout: default
 ---
