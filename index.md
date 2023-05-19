@@ -15,7 +15,7 @@ If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
 ## Who does what
- 
+
 Put all of your Markdown in a file with a simple name such as `index.md` or
 `home.md`.
 
