@@ -10,7 +10,7 @@ the use of a special editor or command line tools. Learn how to use Markdown on 
 the use of a special editor or command line tools. 
 
 {% include my_figure.html %}
-
+ 
 If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
