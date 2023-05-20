@@ -10,7 +10,7 @@ the use of a special editor or command line tools. Learn how to use Markdown on 
 the use of a special editor or command line tools. 
 
 
-<iframe src="{% include my_figure.html %}" class="is-fullwidth" height="315px>
+<iframe src="{% include my_figure.html %}" width="50px" height="31px>
 </iframe>
 
  
