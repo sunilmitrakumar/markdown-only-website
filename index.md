@@ -9,9 +9,10 @@ the use of a special editor or command line tools. Learn how to use Markdown on 
 the use of a special editor or command line tools. Learn how to use Markdown on GitHub to make a nice-looking website without
 the use of a special editor or command line tools. 
 
-<iframe src="{% include predoc_map.html %}" height="100px" width="100%" style="border:none;"></iframe>
-
-
+<div class="graph-container">
+    <iframe src="{% include predoc_map.html %}" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
  
 If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
