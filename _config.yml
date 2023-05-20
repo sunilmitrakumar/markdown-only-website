@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 title: Gender paygaps at King's College London
 subtitle: test1
 description: ""
@@ -12,7 +12,7 @@ baseurl: /markdown-only-website
 
 permalink: pretty
 
-#theme: minima
+theme: minima
 
 plugins:
   - jekyll-feed
