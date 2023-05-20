@@ -12,7 +12,7 @@ the use of a special editor or command line tools.
 
 <html>
 <body>
-<iframe src="{% include my_figure.html %}" height="100%" width="100%">
+<iframe src="{% include my_figure.html %}" height="50%" width="50%">
 </iframe>
 </body>
 </html>
