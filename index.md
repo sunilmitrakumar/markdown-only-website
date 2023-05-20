@@ -9,17 +9,9 @@ the use of a special editor or command line tools. Learn how to use Markdown on 
 the use of a special editor or command line tools. Learn how to use Markdown on GitHub to make a nice-looking website without
 the use of a special editor or command line tools. 
 
-<figure>
-   <a href="https://jekyllrb.com">
-   <img src="my_figure.html" style="max-width: 200px;"
-      alt="Jekyll logo" />
-   </a>
-   <figcaption>This is the Jekyll logo</figcaption>
-</figure>
+<iframe src="/_includes/my_figure.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
-
- 
  
 If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
